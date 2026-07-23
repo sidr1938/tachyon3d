@@ -6,3 +6,4 @@ license = "MIT"
 description = "A work in progress engine"
 
 [dependencies]
+fxhash = "0.2.1"
